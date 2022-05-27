@@ -1,4 +1,4 @@
-# PasswordCracker 13.0.5.1 2020-11-06
+# PasswordCracker 1.0.0
 Prérequis:
   Open-jdk 13.0.5.1 2020-11-06 ou bien plus
 
